@@ -1,6 +1,6 @@
 <?php
 
-echo "el archivo xml"
+echo "el archivo xml";
 
 
 
