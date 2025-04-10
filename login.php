@@ -5,7 +5,8 @@ echo "hola mundo";
 
 $conexxio();
 
-echo "otra linea mas de codigo";
+echo "otra linea mas de";
+
 
 
 
