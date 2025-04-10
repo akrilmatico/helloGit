@@ -7,7 +7,7 @@ $conexxio();
 
 echo "otra linea mas de";
 
-
+mysqlConnexion.close();
 
 
 
