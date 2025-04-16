@@ -10,6 +10,7 @@ echo "otra linea mas de";
 mysqlConnexion.close();
 funcion();
 
+$varSer_nombre="";
 
 
 ?>
